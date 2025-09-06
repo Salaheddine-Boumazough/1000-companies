@@ -68,3 +68,6 @@ Achieved an R² score of 0.935, indicating excellent predictive accuracy
 
 📈 Results
 The linear regression model achieved 93.5% accuracy in predicting company profits based on the given features, demonstrating strong predictive power.
+
+Author
+Salaheddine Boumazough
